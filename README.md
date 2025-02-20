@@ -1,5 +1,7 @@
 # Codebase for the paper "Measuring Faithfulness of Chains of Thought by Unlearning Reasoning Steps"
 
+![Faithfulness by Unlearning Reasoning Steps](figures/fig1.png "Faithfulness by Unlearning Reasoning Steps")
+
 Codebase is given as-is, instructions pending.
 Main file for running experiments is `unlearn.py`. The NPO method has been adapted from the [original repository](https://github.com/licong-lin/negative-preference-optimization).
 
